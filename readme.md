@@ -1,4 +1,3 @@
----
 
 # 🛡️ Telegram 全能群管机器人 (Cloudflare Workers 版)
 
